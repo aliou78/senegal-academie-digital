@@ -1,0 +1,10 @@
+Django==5.2.6
+djangorestframework==3.16.1
+django-cors-headers==4.9.0
+Pillow==11.3.0
+python-decouple==3.8
+psycopg2-binary==2.9.9
+django-filter==24.3
+celery==5.4.0
+redis==5.2.1
+stripe==10.12.0
